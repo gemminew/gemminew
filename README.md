@@ -2,7 +2,8 @@
 <img width="900" height="300" src="https://user-images.githubusercontent.com/44656020/145626993-5231c364-a009-46f3-bb62-5a228221f0cd.gif" alt="my banner">
 </p>
 
-<h3><li>I am a Front End Developer with Administrative background.</li> <li> My professional goal is to be able to automate repetitive processes in order to increase productivity. </li>  <li> In my spare time I also enjoy reading  science fiction short stories. </li></h3>
+<h3><li>I am a Front End Developer transition to Data Analysis since i'm growing fonder into data-driven
+decisition for businesses. </li> <li> In my spare time I also enjoy reading  science fiction short stories. </li></h3>
                                                                                                                                          
 <h1> Contact: </h1>
 <p align="center"> 
@@ -21,16 +22,12 @@
 
 <h1> What I am currently doing </h1>
 
-- Refactoring My old projects  _(Data Lovers with React comming soon!)_
-- Burger Queen API Client with React 
-- Coding exercises
-- 
-
-## I'm currently learning
-
-- ![react](https://user-images.githubusercontent.com/44656020/145617847-5d4ac6c4-e6be-49a3-aa76-27ec66cf1f2b.png) React 
-
-
+- Preparing for the Advanced Google Data Analytics Certification
+- Refactoring my latests projects
+- Learning Python                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                          
 
 
 
